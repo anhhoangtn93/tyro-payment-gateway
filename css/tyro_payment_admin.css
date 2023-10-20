@@ -1,0 +1,26 @@
+.field-aip-key{
+    display: flex;
+    flex-direction: column;
+}
+.api-key-lable{
+    font-size: 14px;
+    font-weight: 600; 
+}
+#tyro_save_settings{
+    display: block;
+    line-height: 30px;
+    font-weight: 700;
+    font-size: 14px;
+    border: none;
+    height: 30px;
+    width: 80px;
+    background-color: dodgerblue;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 40px;
+}
+#save:hover{
+    background-color: deepskyblue;
+}
